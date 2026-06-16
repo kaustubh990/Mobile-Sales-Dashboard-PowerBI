@@ -59,6 +59,6 @@ The dashboard provides business insights through KPIs, trend analysis, and inter
 
 - B.Tech CSE Student, KIET Group of Institutions
 - Aspiring Data Analyst
-- AWS Certified Cloud Practitioner
+
 
 LinkedIn: https://www.linkedin.com/in/kaustubh-yadav-405483253/
